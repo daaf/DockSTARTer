@@ -16,7 +16,7 @@ You can use overrides to:
 - Modify an existing app (such as changing which image the app uses)
 - Add an entirely new app that's not included in DockSTARTer
 
-### Modify Existing Apps
+### Modify an Existing App
 
 The example below will change Sonarr to use hotio's image for Sonarr and add a /media volume. Everything else from the original config, such as the remaining volumes and environment variables, will be preserved and merged with the override config.
 
